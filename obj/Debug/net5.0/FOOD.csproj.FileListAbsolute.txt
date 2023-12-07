@@ -1,0 +1,16 @@
+C:\Users\PRINCE\Desktop\FOOD\bin\Debug\net5.0\FOOD.exe
+C:\Users\PRINCE\Desktop\FOOD\bin\Debug\net5.0\FOOD.deps.json
+C:\Users\PRINCE\Desktop\FOOD\bin\Debug\net5.0\FOOD.runtimeconfig.json
+C:\Users\PRINCE\Desktop\FOOD\bin\Debug\net5.0\FOOD.runtimeconfig.dev.json
+C:\Users\PRINCE\Desktop\FOOD\bin\Debug\net5.0\FOOD.dll
+C:\Users\PRINCE\Desktop\FOOD\bin\Debug\net5.0\FOOD.pdb
+C:\Users\PRINCE\Desktop\FOOD\obj\Debug\net5.0\FOOD.csproj.AssemblyReference.cache
+C:\Users\PRINCE\Desktop\FOOD\obj\Debug\net5.0\FOOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRINCE\Desktop\FOOD\obj\Debug\net5.0\FOOD.AssemblyInfoInputs.cache
+C:\Users\PRINCE\Desktop\FOOD\obj\Debug\net5.0\FOOD.AssemblyInfo.cs
+C:\Users\PRINCE\Desktop\FOOD\obj\Debug\net5.0\FOOD.csproj.CoreCompileInputs.cache
+C:\Users\PRINCE\Desktop\FOOD\obj\Debug\net5.0\FOOD.dll
+C:\Users\PRINCE\Desktop\FOOD\obj\Debug\net5.0\refint\FOOD.dll
+C:\Users\PRINCE\Desktop\FOOD\obj\Debug\net5.0\FOOD.pdb
+C:\Users\PRINCE\Desktop\FOOD\obj\Debug\net5.0\FOOD.genruntimeconfig.cache
+C:\Users\PRINCE\Desktop\FOOD\obj\Debug\net5.0\ref\FOOD.dll
